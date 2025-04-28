@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, astronomy, physics, AI.
 - 🌱 I’m currently learning PHP, Mysql.
 - 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me: https://x.com/Stoic_David, https://forum.bigbadaboom.ca/
+- 📫 How to reach me: https://x.com/Stoic_David , https://forum.bigbadaboom.ca/
 - ⚡ Fun fact: “The world is a tragedy to those who feel, but a comedy to those who think.” ― Horace Walpole
 
 <!---
